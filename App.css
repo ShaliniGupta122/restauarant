@@ -1,0 +1,76 @@
+h1{
+  color:rgb(45, 43, 42);
+  font-size: 100px;
+  font-weight: bold;
+  font-style:italic;
+  font-variant: small-caps;
+}
+h2{
+  color:rgb(104, 243, 155);
+  font-size:22px;
+  font-weight:bold;
+  font-style:italic;
+  margin-left: 10px;
+  text-align: left;
+}
+h3{
+  color:rgb(104, 243, 155);
+  font-size:30px;
+  font-weight:bold;
+  font-style:italic;
+  margin-left: 10px;
+  text-align: left;
+}
+form{
+  color:white;
+  font-size:20px;
+  font-weight:bold;
+  font-style:italic;
+  text-align: left;
+
+}
+*{
+  margin-top:0px;
+  margin-left:0px;
+
+}
+input , button{
+  margin-inline: 0px;
+  font-size:20px;
+  color:rgb(3, 0, 0);
+  padding: 5px 10px; /* Add padding for better button appearance */
+  text-align: center; 
+}
+div#first{
+  width:350px;
+  height:auto;
+  margin: 20px;
+  padding:50px;
+  background-color: rgba(25, 157, 10, 0.037);
+  color:#000000;
+  border:2px solid #f4f5f7;
+  border-radius:40px 40px 40px 40px;  
+  }
+  #mystyle{ 
+    background-image: url('../public/resto4.jpg');
+    background-size: 120% 120%
+  } 
+
+
+
+table, th, td{
+  background-color: rgba(75, 55, 55, 0.016);
+  font-size: 30px;
+  margin-left: 10px;
+  color:white;
+  font-weight:bold;
+  font-style: italic;
+
+
+}
+h3{
+  font: outline;
+  font-style: italic;
+  font-size: 50px;
+  text-align: left;
+}
